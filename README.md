@@ -2,9 +2,13 @@
 Google dorks for finding bug bounty programs
 
 inurl /bug bounty
+
 inurl : / security
+
 inurl:security.txt
+
 inurl:security "reward"
+
 inurl : /responsible disclosure
 inurl : /responsible-disclosure/ reward
 inurl : / responsible-disclosure/ swag
